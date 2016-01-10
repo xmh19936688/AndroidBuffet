@@ -2,7 +2,7 @@
 *.iml
 /*/*.iml
 .gradle
-gradle
+gradlew
 gradlew.bat
 /.idea
 /*/.idea/
