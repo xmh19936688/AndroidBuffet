@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--以下动画同步进行，可自行设置duration和startOffset进行排序-->
+    <translate
+        android:fromXDelta="-100%"
+        android:toXDelta="150%"
+        android:fromYDelta="100%"
+        android:toYDelta="100%"
+        android:duration="1000"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse"
+        android:interpolator="@android:interpolator/accelerate_decelerate"
+        />
+
+    <translate
+        android:fromXDelta="100%"
+        android:toXDelta="100%"
+        android:fromYDelta="150%"
+        android:toYDelta="-100%"
+        android:duration="1000"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse"
+        android:startOffset="1000"
+        />
+
+</set>
