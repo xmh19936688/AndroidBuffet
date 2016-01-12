@@ -1,1 +1,1 @@
-include ':PropertyAnimationDemo', ':FrameAnimation', ':TweenAnimation'
+include ':PropertyAnimationDemo', ':FrameAnimation', ':TweenAnimation', ':MutilLunchActivityDemo'
