@@ -1,1 +1,1 @@
-include ':PropertyAnimationDemo', ':FrameAnimation', ':TweenAnimation', ':MutilLunchActivityDemo', ':UseOfEventBus', ':SampleOfContentProvider', ':SampleOfContentProviderOther'
+include ':PropertyAnimationDemo', ':FrameAnimation', ':TweenAnimation', ':MutilLunchActivityDemo', ':UseOfEventBus', ':SampleOfContentProvider', ':SampleOfContentProviderOther', ':SampleOfAndroidListener'
