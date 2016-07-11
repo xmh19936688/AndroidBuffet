@@ -31,5 +31,8 @@ ContentProvider使用demo
 ##UseOfEventBus
 EventBus使用
 
+##SystemConfig
+读取系统信息，监听系统信息改变
+
 ##SampleOfAndroidListener
 **TOTO**监听android系统广播
