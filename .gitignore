@@ -9,6 +9,7 @@ gradlew.bat
 /build
 /*/build
 /captures
+gradle/
 
 # built application files
 *.apk
@@ -68,4 +69,4 @@ coverage.ec
 ehthumbs.db
 Icon?
 Thumbs.db
-gradle/
+
